@@ -59,10 +59,8 @@ A project focused on improving model performance by prioritizing high-quality da
     ├── utils                   <- Helpers: logging, metrics, etc.
     │   ├── __init__.py 
     |   ├── model
-    |   │   ├── __init__.py 
-    |   |   ├── deep_learning.py      
-    │   ├── cpu_benchmark.py                   
-    │   └── gpu_benchmark.py         
+    |       ├── __init__.py 
+    |       └── deep_learning.py          
     │
     └── plots.py                <- Code to create visualizations
 ```
