@@ -51,7 +51,6 @@ A project focused on improving model performance by prioritizing high-quality da
     │   ├── predict.py          <- Code to run model inference with trained models          
     │   └── train.py            <- Code to train models
     │
-    
     ├── pipelines               <- End-to-end training / inference pipelines
     │   ├── __init__.py 
     │   ├── test_pipeline.py             
